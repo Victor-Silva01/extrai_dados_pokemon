@@ -1,4 +1,6 @@
 # extrai_dados_pokemon               Projeto de Scraping de Pokémon do Tipo Fogo
+site onde vai extrair os dados:https://pokemondb.net/pokedex/all
+
 Objetivo
 O objetivo deste projeto é realizar scraping na página do site Pokémon DB para extrair informações sobre os Pokémon do tipo Fire (Fogo). As informações coletadas incluem:
 
